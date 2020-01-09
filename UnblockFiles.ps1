@@ -1,0 +1,1 @@
+get-ChildItem -Attribute !D | Unblock-File 
